@@ -128,7 +128,7 @@ const TablesExample8 = () => {
           <CardHeader floated={false} shadow={false} className="rounded-none flex flex-wrap gap-4 justify-between mb-4 dark:bg-gray-800">
             <div>
               <Typography variant="h1" color="blue-gray" className="dark:text-white">
-                Tunisienne Stock Market Overview
+                Stock Market Overview
               </Typography>
             </div>
             <div className="p-5 overflow-hidden w-[60px] h-[60px] hover:w-[270px] bg-[#E3A008] dark:bg-gray-700 shadow-[2px_2px_20px_rgba(0,0,0,0.08)] dark:shadow-[2px_2px_20px_rgba(255,255,255,0.08)] rounded-full flex group items-center hover:duration-300 duration-300">
