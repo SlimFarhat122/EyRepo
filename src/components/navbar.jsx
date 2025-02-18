@@ -60,7 +60,6 @@ const Navbar = () => {
               <NavLink to="/Test" className={linkclass}>
                 Test
               </NavLink>
-              {/* Dark mode toggle switch */}
               <label htmlFor="theme-toggle" className="relative inline-flex items-center cursor-pointer">
                 <input
                   type="checkbox"
